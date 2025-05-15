@@ -1,6 +1,5 @@
 package kata.feb0125
 
-import org.junit.jupiter.api.Disabled
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
